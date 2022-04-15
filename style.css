@@ -50,7 +50,7 @@ section#s1{
     width: 100%;
     max-width: 1200px;
     max-height: 700px;
-    background-image: url(img/img-mission-background.jpg);
+    background-image: url(/img/img-mission-background.jpg);
     margin-bottom: 100px;
 }
 #s1 div{
@@ -104,7 +104,7 @@ section#s2{
     width: 100%;
     max-width: 1200px;
     height: 500px;
-    background-image: url(img/img-locations-background.jpg);
+    background-image: url(/img/img-locations-background.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
